@@ -1,14 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    margin: 0; padding: 0;box-sizing: border-box;
 }
 
 body{
-    width: 100%;
-    background-color: #FFFFFF;
-    font-family: 'Poppins', Helvetica, sans-serif;
+    /* width: 100%;background-color: #FFFFFF; font-family: 'Poppins', Helvetica, sans-serif; */
 }
 
 .container{
@@ -20,14 +16,14 @@ justify-content: space-between;
 align-items: center;
 }
 
-.nav-link a{
+/* .nav-link a{
   text-decoration: none;
   font-size: 18px;
   font-weight: 300;
     margin: 0 10px;
     color: #000;
     opacity: 0.8;
-}
+} */
 
 /* .logo-image{
     width: 50px;
@@ -59,12 +55,7 @@ ol li{
     margin-left: 15px;
 }
 h1{
-    text-align: center;
-    padding: 2rem;
-    font-size: 22px;
-    margin: 25px 0;
-    background-color: rgb(233, 243, 246) ;
-    border-radius: 8px;
+    text-align: center; padding: 2rem; font-size: 22px; margin: 25px 0; background-color: rgb(233, 243, 246) ; border-radius: 8px;
 }
 p , li {
     font-size: 16px;
@@ -74,18 +65,15 @@ p , li {
     margin: 8px 0;
 }
 h2 {
-    font-size: 20px;
-    margin: 20px 0;
+    font-size: 20px; margin: 20px 0;
 }
 h3{
-    font-size: 18px;
-    margin: 15px 0;
+    font-size: 18px; margin: 15px 0;
 }
 h4  {
-    font-size: 16px;  
-    margin: 15px 0;
+    font-size: 16px;  margin: 15px 0;
 }
-.span-text b{
+/* .span-text b{
     font-size: 16px; 
    margin: 20px 0;
-}
+} */
