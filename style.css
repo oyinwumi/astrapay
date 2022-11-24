@@ -66,21 +66,26 @@ h1{
     background-color: rgb(233, 243, 246) ;
     border-radius: 8px;
 }
-p , li , h3{
-    font-size: 18px;
+p , li {
+    font-size: 16px;
     line-height: 2;
     word-spacing: 2;
     color: #000;
-   
+    margin: 8px 0;
 }
 h2 {
     font-size: 20px;
     margin: 20px 0;
 }
 h3{
-    margin: 20px 0;
+    font-size: 18px;
+    margin: 15px 0;
 }
-h4 , span b{
+h4  {
     font-size: 16px;  
     margin: 15px 0;
+}
+.span-text b{
+    font-size: 16px; 
+   margin: 20px 0;
 }
